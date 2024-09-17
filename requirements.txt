@@ -1,0 +1,4 @@
+telebot
+shazamio==0.6.0
+pydantic==1.10.2
+anyio==4.3.0
